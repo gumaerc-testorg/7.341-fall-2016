@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 73e0a3d9-6228-1065-20f8-c5969f18d9ca
 resourcetype: Document
 title: 7.341 F16 Final Assignment Papers
 uid: 5154f58a-c68a-38f7-88eb-5b38a2e140b5
