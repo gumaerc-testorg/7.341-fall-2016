@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a description of the midterm and final assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +13,7 @@ Midterm Assignment
 
 There will be one written assignment, due in the middle of the course. During the first session, students will be given a choice from a list of scientific papers about the topic of host-parasite interactions. The assignment will be a) to summarize the main findings of the paper and b) to suggest two or three further experiments that would either support or develop the main findings of the paper. Students should focus on describing proposed experiments and should include a short justification, a brief overview of the method as well as any controls needed. The word limit will be 1000 words.
 
-[Papers for Midterm Assignment (PDF)]({{< baseurl >}}/resources/mit7_341f16_midterm_asgn)
+{{% resource_link 78e6eb8b-9cd8-16d0-af0c-2eb402e41fbd "Papers for Midterm Assignment (PDF)" %}}
 
 Final Assignment: Oral Presentation
 -----------------------------------
@@ -23,4 +24,4 @@ The presentation should use no more than 11–12 slides (including title). The f
 
 For the discussion, students should point out the key experiment(s) and control(s) and present their own conclusion whether the results support the claims made in the manuscript completely, partially or not at all. The oral presentations will be on the final day of class.
 
-[Final Assignment Papers (PDF)]({{< baseurl >}}/resources/mit7_341f16_final_asgn)
+{{% resource_link 5154f58a-c68a-38f7-88eb-5b38a2e140b5 "Final Assignment Papers (PDF)" %}}
