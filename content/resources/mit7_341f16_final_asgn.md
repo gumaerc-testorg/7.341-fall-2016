@@ -5,6 +5,7 @@ file: /courses/7-341-host-hacking-parasitic-manipulations-from-a-micro-to-a-macr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 7.341 F16 Final Assignment Papers
 uid: 5154f58a-c68a-38f7-88eb-5b38a2e140b5
 ---
 This resource contains information regarding final assignment papers.
-
