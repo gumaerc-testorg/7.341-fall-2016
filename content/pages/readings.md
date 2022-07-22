@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4f70f97b-f591-c989-90fc-c62eefa21de0
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week1)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week1" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Introduction
 
 Alien invasion: How Toxoplasma secretly enters host cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week2)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week2" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Mordue, D. G., et al. "[Invasion by _Toxoplasma Gondii_ Establishes a Moving Jun
 
 Make yourself at home: Intracellular survival in the parasitophorous vacuole
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week3)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week3" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Nadipuram, S. M., E. W. Kim, et al. "[In Vivo Biotinylation of the _Toxoplasma_ 
 
 How parasites transport proteins and nutrients across membranes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week4)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week4" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Gold, D. A., A. D. Kaplan, et al. "[The _Toxoplasma_ Dense Granule Proteins GRA1
 
 The transforming parasite: How Theileria modifies its host cell in order to replicate
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week5)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week5" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Marsolier, J., M. Perichon, et al. "[_Theileria_ Parasites Secrete a Prolyl Isom
 
 (Don't) Divide and Conquer: How Toxoplasma pauses the host cell cycle
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week6)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week6" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +172,7 @@ Bougdour, A., E. Durandau, et al. "[Host Cell Subversion by _Toxoplasma_ GRA16, 
 
 Field Trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week7)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week7" %}}
 
 
 {{< tdclose >}}
@@ -185,7 +190,7 @@ No Readings
 
 Jamming communications: Strategies to thwart innate immunity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week8)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week8" %}}
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ Etheridge, R. D., A. Alaganan, et al. "[The _Toxoplasma_ Pseudokinase ROP5 Forms
 
 The fatal consequences of hide and seek: How changes in Plasmodium's surface increases disease severity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week9)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week9" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +238,7 @@ Avril, M., A. K. Tripathi, et al. "[A Restricted Subset of _Var_ Genes Mediates 
 
 Malarial mind control–Plasmodium increases transmission by modifying mosquito behavior
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week10)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week10" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ De Moraes, C. M. Stanczyk, et al. "[Malaria-Induced Changes in Host Odors Enhanc
 
 Of mice, rats, cats, leopards and chimpanzees
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week11)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week11" %}}
 
 
 {{< tdclose >}}
@@ -283,7 +288,7 @@ Prandovszky, E., E. Gaskell, et al. "[The Neurotropic Parasite _Toxoplasma Gondi
 
 Oral presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week12)
+{{% resource_link bcdabc14-6554-5a88-f022-c07d2bb1b084 "See the Lecture Summary" "#week12" %}}
 
 
 {{< tdclose >}}
