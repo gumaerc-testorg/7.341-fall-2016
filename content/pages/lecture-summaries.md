@@ -154,7 +154,7 @@ Field trip
 {{< tdopen >}}
 
 
-{{< anchor "week7" >}}{{< /anchor >}}The tools used to study the biology of parasites have advanced considerably in the past decade, and active research is continuing to improve these methods. We will spend one session visiting the [Lourido lab](http://louridolab.wi.mit.edu/) at the [Whitehead Institute](http://wi.mit.edu/), where various aspects of the research concerning _Toxoplasma gondii_ discussed in class are currently being performed.
+{{< anchor "week7" >}}{{< /anchor >}}The tools used to study the biology of parasites have advanced considerably in the past decade, and active research is continuing to improve these methods. We will spend one session visiting the {{% resource_link "737e1fdb-2037-4af5-b48c-3d2ace433041" "Lourido lab" %}} at the {{% resource_link "9278f6ee-0613-4aa9-84aa-4a0a874d4e03" "Whitehead Institute" %}}, where various aspects of the research concerning _Toxoplasma gondii_ discussed in class are currently being performed.
 
 Students will attend hands-on demonstrations of several techniques for visualizing the parasite including fluorescence microscopy and plaque assays. Time permitting, fluorescence-activated cell sorting (FACS) will be discussed and demonstrated.
 

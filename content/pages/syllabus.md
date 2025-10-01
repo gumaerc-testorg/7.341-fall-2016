@@ -160,7 +160,7 @@ Midterm Written Assignment due
 Field trip
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the [Lourido Lab](http://louridolab.wi.mit.edu/), at the [Whitehead Institute](http://wi.mit.edu/)
+Field trip to the {{% resource_link "737e1fdb-2037-4af5-b48c-3d2ace433041" "Lourido Lab" %}}, at the {{% resource_link "9278f6ee-0613-4aa9-84aa-4a0a874d4e03" "Whitehead Institute" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
